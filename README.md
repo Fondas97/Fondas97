@@ -1,9 +1,22 @@
+# Fondas portfolio
 ## Hi there 👋
+My name is xenofon,i finished google's data analytics course and i start my journey in data analytics.
 
-Im new in the data field,finished business management in 2024 but data has drawn my attention.
-Im currently working on several case studies which have been the reason i made a github profile in the first place.
+Info About Me:
+
+:sweat: Im new in the data field
+:call_me_hand: Finished business management in 2024 but data has drawn my attention
+
+:sunglasses: Im currently working on several case studies
+
 Thank you for your time.
 
+
+
+## Table of Contents
+- [How to Create Your Profile?](#how-to-create-your-profile)
+- [How to Customize Markdown files?](#how-to-customize-markdown-files)
+- [How to Create New Repository?](#how-to-create-new-repository)
 <!--
 **Fondas97/Fondas97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
