@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+Im new in the data field,finished business management in 2024 but data has drawn my attention.
+Im currently working on several case studies which have been the reason i made a github profile in the first place.
+Thank you for your time.
+
 <!--
 **Fondas97/Fondas97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
