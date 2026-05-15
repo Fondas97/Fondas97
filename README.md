@@ -1,6 +1,6 @@
-# Fondas portfolio
-## Hi there 👋
-My name is xenofon,i finished google's data analytics course and i start my journey in data analytics.
+# 👋 Personal Introduction
+
+Hello,iam Xenofon an aspiring data analyst as i  finished google's data analytics course and just started my journey in data analytics.
 
 Info About Me:
 
@@ -8,7 +8,9 @@ Info About Me:
    - :call_me_hand: Finished business management in 2024 but data has drawn my attention
    - :sunglasses: Im currently working on several case studies
 
-Thank you for your time.
+## Projects
+
+Here you can find some of my work [Projects]
 
 
 
