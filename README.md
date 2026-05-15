@@ -4,10 +4,9 @@ My name is xenofon,i finished google's data analytics course and i start my jour
 
 Info About Me:
 
-:sweat: Im new in the data field
-:call_me_hand: Finished business management in 2024 but data has drawn my attention
-
-:sunglasses: Im currently working on several case studies
+'-:sweat: Im new in the data field
+  '-:call_me_hand: Finished business management in 2024 but data has drawn my attention
+  '- :sunglasses: Im currently working on several case studies
 
 Thank you for your time.
 
