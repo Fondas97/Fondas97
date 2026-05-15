@@ -18,7 +18,7 @@ Thank you for your time.
 
 
 ## 🤝Social
-LinkedIn:
+[LinkedIn](https://www.linkedin.com/in/xenofon-katakis-953382283/)
 
 <!--
 **Fondas97/Fondas97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
